@@ -1,6 +1,7 @@
 ---
 title: "metabolomicsProcessingDIY"
 author: "DeniseSl22"
+author: "myName"
 format: html
 editor: visual
 ---
